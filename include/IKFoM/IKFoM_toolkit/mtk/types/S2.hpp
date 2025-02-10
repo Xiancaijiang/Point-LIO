@@ -77,14 +77,9 @@
 #ifndef S2_H_
 #define S2_H_
 
-
 #include "vect.hpp"
-
 #include "SOn.hpp"
 #include "../src/mtkmath.hpp"
-
-
-
 
 namespace MTK {
 

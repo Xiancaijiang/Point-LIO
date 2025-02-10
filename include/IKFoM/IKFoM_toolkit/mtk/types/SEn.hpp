@@ -83,10 +83,7 @@
 #include "vect.hpp"
 #include "../src/mtkmath.hpp"
 
-
 namespace MTK {
-
-
 /**
  * Three-dimensional orientations represented as Quaternion.
  * It is assumed that the internal Quaternion always stays normalized,
